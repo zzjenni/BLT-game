@@ -1,0 +1,16 @@
+body {
+    background: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Apple Chancery';
+    font-size: 36px;
+}
+
+.ingredient {
+    width: 100px;
+    height: 100px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
